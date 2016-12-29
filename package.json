@@ -10,5 +10,12 @@
     "npm"
   ],
   "author": "Migot Florian",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "react": "^15.4.1"
+  },
+  "devDependencies": {
+    "babel-loader": "^6.2.10",
+    "webpack": "^1.14.0"
+  }
 }
