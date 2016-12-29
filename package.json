@@ -1,0 +1,14 @@
+{
+  "name": "mytrain",
+  "version": "1.0.0",
+  "description": "Tutorial on react/redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Migot Florian",
+  "license": "ISC"
+}
